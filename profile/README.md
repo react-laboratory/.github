@@ -1,9 +1,7 @@
-<p align="center"><img src="react.png" width="150"></p>
+<p align="center"><img src="assets/react.png" width="150"></p>
 
 <h1 align="center">The React Laboratory</h1>
 <h3 align="center">Anything that needs exploring, experimenting and modulising in React</h2>
-
-<br/>
 
 <details open="open">
   <summary></summary>
@@ -38,8 +36,6 @@
   </ol>
 </details>
 
-<br/>
-
 # Guideline
 
 ## Use of [Create React App](https://create-react-app.dev/)
@@ -49,8 +45,6 @@ CRA provides the most simplest and minimal setup to create an environment for de
 ## Use of [Typescript](https://www.typescriptlang.org/)
 
 Typescript provides static typing to Javascript to ensure types without additional code. This is useful especially for parameters passed into functions and components. Hence it is best to include it within the modulisation.
-
-<br/>
 
 # Get started
 
